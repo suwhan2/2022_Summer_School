@@ -4,3 +4,4 @@
 * Github Test
 ## 2022.06.29.(Wen)
 Github 실습
+Github Direct Modified
