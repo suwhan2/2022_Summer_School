@@ -147,3 +147,23 @@ This allows you to have a footnote with multiple lines.
 [^note]: Named footnotes will still render with numbers instead of the text but allow easier identification and linking. 
 This footnote also has been made with a different syntax using 4 spaces for new lines.
 
+## Table
+
+* <table> 태그로 변환됨
+* 헤더 셀을 구분할 때 3개 이상의 -(hyphen/dash) 기호가 필요함
+* 헤더 셀을 구분하면서 :(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있음
+* 가장 좌측과 가장 우측에 있는 ‘|(vertical bar)” 기호는 생략 가능
+
+| 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 | |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
+| `fixed` | 브라우저 창을 기준으로 배치 | |
+
+- - -
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
