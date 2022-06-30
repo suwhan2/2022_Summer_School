@@ -48,9 +48,12 @@ List 실습
 	백두산이
 마르고 닳도록
 
-* 예시
+## Code Block Method
 
-	#Incluude<stdio.h>
-	int main(){
-	 print("hello");
-	}
+<pre>
+<code>
+class Car{
+	private String modelName;
+}
+</code>
+</pre>
