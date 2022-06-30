@@ -51,9 +51,6 @@ List 실습
 * 예시
 
 	#Incluude<stdio.h>
-
 	int main(){
-
 	 print("hello");
-
 	}
