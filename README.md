@@ -60,10 +60,10 @@ class Car{
 </pre>
 
 2. " ``` " 사용
-```
+```java
 class Car{
 	private String modelName;
 }
 ```
 
-* ```뒤에 무슨언어인지 적어두면 그언어로 표현가능
+* " ``` "뒤에 무슨언어인지 적어두면 그언어로 표현가능
