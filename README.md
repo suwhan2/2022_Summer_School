@@ -120,3 +120,7 @@ Link: [google][googlelink]
 
 ![son](son.jpg "son")
 
+## Footnotes
+
+다른사람것을쓰고는 참조를 꼭 달아주자
+문장뒤에 부호표시후 부호에 참조표시
