@@ -18,14 +18,14 @@ BlockQuote실습
 >	>This is a second blockqute
 >	>	>This is a third blockqute
 
-List 실습
------------------
-## 순서가 있는 목록(번호사용)
+## List 실습
+
+### 순서가 있는 목록(번호사용)
 1. 첫번째 목록
 2. 두번째 목록
 3. 세번째 목록
 
-## 순서가 없는 목록(글머리기호사용 : *,+,-사용)
+### 순서가 없는 목록(글머리기호사용 : *,+,-사용)
 * Color
   * Blue
   * Green
