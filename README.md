@@ -96,6 +96,6 @@ class Car{
 
 * 참조링크
 
-[googlelink]: https://www.google.co.kr "Let's Go Google"
+[Google](https://www.google.co.kr "Let's Go Google")
 
 
