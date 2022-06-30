@@ -120,6 +120,12 @@ Link: [google][googlelink]
 
 ![son](son.jpg "son")
 
+### 이미지 크기조절
+
+<img src="son.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="son"></img><br/>
+<img src="son.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="son"></img>
+
+
 ## Footnotes
 
 다른사람것을쓰고는 참조를 꼭 달아주자
@@ -140,3 +146,4 @@ This allows you to have a footnote with multiple lines.
 
 [^note]: Named footnotes will still render with numbers instead of the text but allow easier identification and linking. 
 This footnote also has been made with a different syntax using 4 spaces for new lines.
+
