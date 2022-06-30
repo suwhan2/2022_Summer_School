@@ -47,3 +47,9 @@ List 실습
 동해물과
 	백두산이
 마르고 닳도록
+
+* 예시
+	#Incluude<stdio.h>
+	int main(){
+	 print("hello");
+	}
