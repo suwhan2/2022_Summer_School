@@ -27,7 +27,7 @@ List 실습
 3. 세번째 목록
 
 ##순서가 없는 목록(글머리기호사용 : *,+,-사용)
-*Blue
-*Green
-*Red
-*Yellow
+* Blue
+* Green
+* Red
+* Yellow
