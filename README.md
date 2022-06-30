@@ -49,6 +49,8 @@ List 실습
 
 ## Code Block Method
 
+1. pre,code태그 사용
+
 <pre>
 <code>
 class Car{
@@ -56,3 +58,10 @@ class Car{
 }
 </code>
 </pre>
+
+2. " ``` " 사용
+```
+class Car{
+	private String modelName;
+}
+```
