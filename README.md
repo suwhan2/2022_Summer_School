@@ -104,4 +104,17 @@ Link: [google][googlelink]
 
 [Google](https://www.google.co.kr)
 
+* 자동링크
+
+## Emphasis
+
+이텔릭체 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용
+
+두껍게는 ** 별표(asterisks)* 혹은 __언더바(underscore)__를 사용
+
+**_이텔릭체_와 두껍게**를 같이 사용할 수 있음
+
+취소선은 ~~물결표시(tilde)~~를 사용
+
+
 
